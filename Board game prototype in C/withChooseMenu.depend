@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1736893257 source:c:\users\domin\onedrive\pulpit\pin\cblock\withchoosemenu\main.c
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
