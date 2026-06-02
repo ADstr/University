@@ -1,0 +1,2 @@
+podany w szkielecie słownik ma o co najmniej 2 pozycje więcej niż ten z pdf
+Przy "Figure 3. Word Processing using a Vocabulary L" b) jest błędne - słowo 1364 - koniec drugiego wiersza - to słowo nie powinno występować
